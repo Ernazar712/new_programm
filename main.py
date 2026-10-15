@@ -58,5 +58,5 @@ print(type(peremennaya))
 
 zur=int
 
-
-
+f=input("привет")
+print("ghbdyn")
